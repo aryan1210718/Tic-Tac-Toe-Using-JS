@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-This is a simple *Tic Tac Toe* game developed using *HTML, **CSS, and **JavaScript*. The game is played between two players, and the objective is to get three of your marks in a row (either horizontally, vertically, or diagonally).
+This is a simple *Tic Tac Toe* game developed using **HTML**, **CSS**, and **JavaScript**. The game is played between two players, and the objective is to get three of your marks in a row (either horizontally, vertically, or diagonally).
 
 ## Features
 
